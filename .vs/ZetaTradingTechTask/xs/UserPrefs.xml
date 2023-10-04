@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{F6031DD1-E18E-421F-AD96-792751F2E49E}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZetaTradingTechTask/Properties/launchSettings.json">
+    <Files>
+      <File FileName="ZetaTradingTechTask/Program.cs" Line="21" Column="24" />
+      <File FileName="ZetaTradingTechTask/appsettings.json" />
+      <File FileName="ZetaTradingTechTask/appsettings.Development.json" />
+      <File FileName="ZetaTradingTechTask/Properties/launchSettings.json" Line="25" Column="42" />
+      <File FileName="ZetaTradingTechTask/Models/Node.cs" Line="20" Column="16" />
+      <File FileName="ZetaTradingTechTask/Models/JournalRecord.cs" Line="11" Column="20" />
+      <File FileName="ZetaTradingTechTask/Models/SecureException.cs" Line="8" Column="10" />
+      <File FileName="ZetaTradingTechTask/Models/JournalRecordData.cs" Line="14" Column="1" />
+      <File FileName="ZetaTradingTechTask/Controllers/ApplicationController.cs" />
+      <File FileName="ZetaTradingTechTask/ApplicationDbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZetaTradingTechTask" expanded="True">
+            <Node name="ZetaTradingTechTask">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ZetaTradingTechTask PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
